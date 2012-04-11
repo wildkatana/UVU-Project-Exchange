@@ -31,3 +31,4 @@ features[menu_links][] = "main-menu:projects"
 features[node][] = "project"
 features[taxonomy][] = "expertise"
 features[views_view][] = "projects"
+stylesheets[all][] = project_exchange.css

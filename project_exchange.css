@@ -1,0 +1,56 @@
+.filter-wrapper {
+  display: none;
+}
+
+.comment .permalink {
+  display: none;
+}
+
+.comment .uvu-postcontent h3 {
+  display: none;
+}
+
+#comments .comment .submitted {
+  bottom: 5px;
+  float: none;
+  font-size: 11px;
+  left: 5px;
+  position: absolute;
+}
+
+#comments ul.inline, ul.links.inline {
+  display: block;
+  float: none;
+  margin: 5px 0;
+  overflow: visible;
+  padding: 0;
+}
+
+#comments ul.inline li, ul.links.inline li {
+  display: inline;
+  margin: 0 10px 0 0;
+  padding: 0;
+  text-decoration: underline;
+  text-transform: lowercase;
+}
+
+.comment {
+  background: none repeat scroll 0 0 #EFEFEF;
+  border: 2px solid #AAAAAA;
+  border-radius: 5px 5px 5px 5px;
+  margin: 5px;
+  padding: 0 5px 20px;
+  position: relative;
+}
+
+.views-exposed-form span.uvu-button-wrapper {
+  margin: 15px 5px 0 0;
+}
+
+.views-exposed-form {
+  padding: 0 20px;
+}
+
+h1.title {
+  line-height: 40px;
+}
